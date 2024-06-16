@@ -1,4 +1,9 @@
 .DS_Store
-Cypress/cypress/screenshots/
-Cypress/cypress/videos/
-Cypress/node_modules/
+cypress/cypress/screenshots/
+cypress/cypress/videos/
+cypress/node_modules/
+playwright/node_modules/
+playwright/test-results/
+playwright/playwright-report/
+playwright/blob-report/
+playwright/playwright/.cache/
